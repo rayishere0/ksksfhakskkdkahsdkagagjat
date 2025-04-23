@@ -2,14 +2,12 @@
     "name": "Frosted Glass",
     "description": "a frosted glass theme with blur, transparency, and a modern look.",
     "authors": [
-      "R",
-      ".."
+      "R"
     ],
     "semanticColors": {},
     "colors": {}
   },
   "background": {
-    "blur": 5,
     "url": "https://i.ibb.co/DPGD80vw/image-3.png",
     "alpha": 1
   },
